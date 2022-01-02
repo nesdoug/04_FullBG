@@ -286,4 +286,4 @@ sounds_data:
 
 .segment "CHARS"
 
-	.incbin "Girl3.chr"
+	.incbin "Girl5.chr"
